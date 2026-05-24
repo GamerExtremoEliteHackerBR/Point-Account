@@ -162,7 +162,7 @@ O **Conta Ponto** é uma solução gratuita e profissional para gerenciamento de
 - ✅ **Temas** - Claro e Escuro
 - ✅ **Backup** - Exportação e importação de dados
 - ✅ **Privacidade** - Dados salvos apenas localmente
-
+<!--
 ## 📸 Screenshots
 
 | Registros | Relatórios | Configurações |
@@ -170,7 +170,7 @@ O **Conta Ponto** é uma solução gratuita e profissional para gerenciamento de
 | ![Registros](https://via.placeholder.com/200x400?text=Registros) | ![Relatórios](https://via.placeholder.com/200x400?text=Relatórios) | ![Config](https://via.placeholder.com/200x400?text=Configurações) |
 
 🎥 Vídeo de demonstração: Assista ao funcionamento do Conta Ponto no Vimeo
-
+-->
 
 ## 🚀 Funcionalidades
 
