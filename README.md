@@ -120,11 +120,25 @@ markdown-->
 
 ## 🎬 Demonstração
 
-**Assista ao vídeo de apresentação completa do sistema:**
+**Assista ao vídeo de Apresentação completa do sistema:**
 
-[![Assista à demonstração do Conta Ponto](https://img.shields.io/badge/▶️_Assistir_Demo-Vimeo-1ab7ea?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/1195170660?share=copy&fl=sv&fe=ci)
+[![Assista à Apresentação do Conta Ponto](https://img.shields.io/badge/▶️_Assistir_Demo-Vimeo-1ab7ea?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/1195170660?share=copy&fl=sv&fe=ci)
 
 > Clique no botão acima ou acesse: https://vimeo.com/1195170660
+
+
+**Assista ao vídeo de Registro de Jornada 24H do sistema:**
+
+[![Assista à Registro Jornada 24H Conta Ponto](https://img.shields.io/badge/▶️_Assistir_Demo-Vimeo-1ab7ea?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/1195170660?share=copy&fl=sv&fe=ci)
+
+> Clique no botão acima ou acesse: https://vimeo.com/1195170665
+
+**Assista ao vídeo de Registro de Jornada Normal do sistema:**
+
+[![Assista à Registro Jornada Normal Conta Ponto](https://img.shields.io/badge/▶️_Assistir_Demo-Vimeo-1ab7ea?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/1195170660?share=copy&fl=sv&fe=ci)
+
+> Clique no botão acima ou acesse: https://vimeo.com/1195170666
+
 
 O vídeo mostra todas as funcionalidades do sistema em ação:
 - 📋 Registro de ponto (entrada/saída)
