@@ -118,6 +118,22 @@ markdown-->
 
 📱 **Instalável**: Pode ser instalado como aplicativo nativo no celular ou computador!
 
+## 🎬 Demonstração
+
+**Assista ao vídeo de apresentação completa do sistema:**
+
+[![Assista à demonstração do Conta Ponto](https://img.shields.io/badge/▶️_Assistir_Demo-Vimeo-1ab7ea?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/1195170660?share=copy&fl=sv&fe=ci)
+
+> Clique no botão acima ou acesse: https://vimeo.com/1195170660
+
+O vídeo mostra todas as funcionalidades do sistema em ação:
+- 📋 Registro de ponto (entrada/saída)
+- ✏️ Edição de horários e comentários
+- 📊 Relatórios e exportação de dados
+- ⚙️ Configurações e personalização
+- 🌙 Temas claro/escuro
+- 📱 Experiência mobile e PWA
+
 ## 🎯 Sobre o Projeto
 
 O **Conta Ponto** é uma solução gratuita e profissional para gerenciamento de jornada de trabalho. Desenvolvido com tecnologias web padrão (HTML5, CSS3, JavaScript puro), o sistema oferece uma experiência completa de controle de ponto sem necessidade de servidor, banco de dados ou conexão com internet.
@@ -137,6 +153,9 @@ O **Conta Ponto** é uma solução gratuita e profissional para gerenciamento de
 | Registros | Relatórios | Configurações |
 |-----------|------------|---------------|
 | ![Registros](https://via.placeholder.com/200x400?text=Registros) | ![Relatórios](https://via.placeholder.com/200x400?text=Relatórios) | ![Config](https://via.placeholder.com/200x400?text=Configurações) |
+
+🎥 Vídeo de demonstração: Assista ao funcionamento do Conta Ponto no Vimeo
+
 
 ## 🚀 Funcionalidades
 
