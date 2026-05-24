@@ -114,7 +114,8 @@ markdown-->
 
 > Sistema completo de ponto eletrônico com interface moderna, suporte a múltiplas jornadas, relatórios avançados e funcionamento offline.
 
-🌐 **Demo ao vivo**: [Clique aqui para testar](https://seu-dominio.com/contaponto)
+<!--🌐 **Demo ao vivo**: [Clique aqui para testar](https://seu-dominio.com/contaponto)-->
+🌐 **Demo ao vivo**: [Clique aqui para testar](https://github.com/GamerExtremoEliteHackerBR/Point-Account)
 
 📱 **Instalável**: Pode ser instalado como aplicativo nativo no celular ou computador!
 
