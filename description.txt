@@ -1,0 +1,6 @@
+
+
+📱 Descrição do Projeto
+Conta Ponto - Sistema de Ponto Eletrônico Profissional
+O Conta Ponto é um sistema completo de ponto eletrônico desenvolvido em HTML, CSS e JavaScript puro (Vanilla JS), que funciona diretamente no navegador sem necessidade de servidor ou instalação. Ideal para pequenas empresas, freelancers e profissionais que precisam controlar suas jornadas de trabalho de forma simples e eficiente.
+Com uma interface moderna inspirada no iOS, o sistema oferece registro de entrada/saída, cálculo automático de horas trabalhadas, relatórios detalhados e configurações personalizáveis. Todos os dados são salvos localmente no navegador usando localStorage, garantindo privacidade e disponibilidade offline.
