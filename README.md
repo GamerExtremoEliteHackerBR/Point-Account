@@ -284,9 +284,7 @@ Ideias para contribuir
 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 📧 Contato
 Desenvolvido por Gamer Extremo 🎮
-    <!--• GitHub: @seu-usuario-->
     • GitHub: https://gamerextremoelitehackerbr.github.io/Portfolio/
-    <!--• Projeto: https://github.com/seu-usuario/contaponto-->
     • Projeto: https://github.com/GamerExtremoEliteHackerBR/Point-Account
 🙏 Agradecimentos
     • Apple - Pelo design system inspirador
@@ -296,32 +294,3 @@ Desenvolvido por Gamer Extremo 🎮
 ⭐️ Se este projeto ajudou você, considere dar uma estrela no GitHub! ⭐️
 
 Desenvolvido com ❤️ e ☕ por Gamer Extremo
-
-<!--
-text
-
-### 🏷️ Hashtags para Divulgação
-#ContaPonto #PontoEletronico #GestaoDeTempo #Produtividade #Freelancer #SmallBusiness #WorkFromHome #RemoteWork #TimeTracking #OpenSource #JavaScript #PWA #WebApp #ControleDeJornada #RH #GestaoDePessoas
-text
-
-### 📢 Texto para LinkedIn
-🚀 Acabei de finalizar o desenvolvimento do "Conta Ponto" - um sistema de ponto eletrônico completo e profissional!
-✨ O que torna esse projeto especial?
-✅ 100% gratuito e open-source
-✅ Funciona sem internet (offline-first)
-✅ PWA - pode ser instalado como app nativo
-✅ Interface moderna com tema claro/escuro
-✅ Relatórios avançados e exportação CSV
-✅ Múltiplas jornadas de trabalho
-✅ Privacidade total - dados salvos localmente
-💡 Ideal para:
-• Pequenas empresas que buscam economia
-• Freelancers que precisam controlar horas
-• Equipes remotas
-• Qualquer pessoa que queira gerenciar melhor seu tempo
-🛠 Tecnologias: HTML5, CSS3, JavaScript puro (Vanilla JS), LocalStorage, PWA
-📁 Código disponível no GitHub (link na bio/comentários)
-👥 Aberto a contribuições! Se você é desenvolvedor e quer ajudar a evoluir o projeto, fique à vontade para abrir PRs.
-#DesenvolvimentoWeb #JavaScript #OpenSource #Produtividade #GestaoDeTempo #PWA #FrontEnd
--->
-
